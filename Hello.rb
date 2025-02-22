@@ -11,3 +11,7 @@ idade = gets.chomp.to_i
 
 puts "Wow! You are #{idade} years old. That's great!"
 
+puts "What is your favorite color?"
+favcolor = gets.chomp
+
+puts "Nice! #{favcolor} is a great color."
