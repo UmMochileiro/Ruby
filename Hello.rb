@@ -15,3 +15,8 @@ puts "What is your favorite color?"
 favcolor = gets.chomp
 
 puts "Nice! #{favcolor} is a great color."
+
+puts "What is your favorite team?"
+favteam = gets.chomp
+
+puts "Nice! #{favteam} is a great team."
